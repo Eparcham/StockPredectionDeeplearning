@@ -1,5 +1,6 @@
 # stock-predection-Deeplearning
 I've created a method for estimating stock with deep learning use LSTM and GANS with Tensorflow 
+The stock is expected ago and The direction of movement of the graph is almost correct But the ratio was not right
 
 <p align="center"> <img src="WhatsApp Image 2019-09-24 at 18.20.39.jpeg"/> </p>
 <p align="center"> <img src="WhatsApp Image 2019-09-24 at 18.36.14.jpeg"/> </p>
